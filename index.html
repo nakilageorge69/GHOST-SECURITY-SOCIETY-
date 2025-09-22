@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YOU HAVE BEEN HACKED</title>
+  <link rel="icon" href="https://i.ibb.co/H9tsq2Q/1758251597885.png">
+  <link href="https://fonts.googleapis.com/css2?family=Goldman&display=swap" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/caviar-dreams" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/nevis" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    @font-face {
+      font-family: 'AnonymousFont';
+      src: url('https://raw.githubusercontent.com/nakilageorge69/anonymous/main/my.ttf') format('truetype');
+    }
+
+    body {
+      font-family: "Goldman", monospace;
+      margin: 0; padding: 20px;
+      text-align: center;
+      color: white;
+      background: black; 
+      min-height: 100vh;
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+    }
+
+    #bg-container {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: -3;
+    }
+    #video-bg {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+    }
+    #matrix {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 1; opacity: 0.3;
+    }
+    body::after {
+      content: ""; 
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0,0,0,0.4); 
+      z-index: -2;
+    }
+
+    .profile-img img {
+      width: 220px; height: 220px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+    .main-title {
+      font-family: 'AnonymousFont', serif;
+      font-size: 2.8em; 
+      color: red;
+      margin: 0;
+      font-weight: normal;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      text-shadow: 0 0 3px red, 0 0 50px red, 0 0 50px red;
+    }
+
+    /* Header with top border */
+    .header-top {
+      position: fixed; 
+      top: 0; left: 0;
+      width: 100%;
+      background: rgba(0,0,0,0.6);
+      padding: 15px 0;
+      z-index: 20;
+    }
+    .header-top::after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 4px;
+      background: red;
+      box-shadow: 0 0 15px red, 0 0 30px red;
+    }
+
+    .header-top h1 {
+      margin: 0;
+      font-family: 'AnonymousFont', serif;
+      font-size: 3em;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+    }
+    .subtext {
+      font-size: 0.9em;
+      color: red;
+      letter-spacing: 2px;
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
+
+    /* Greetings and Collaborators in Nevis */
+    h4.greetings, 
+    h4.collaborators {
+      font-family: 'Alusrg', sans-serif;
+      font-size: 1em;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin: 10px 0;
+      text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+    }
+
+    .styled-text {
+      font-family: 'Caviar Dreams', sans-serif;
+      font-size: 1.2rem;
+      white-space: pre-line;
+      line-height: 1.4;
+      font-weight: normal;
+      margin: 0;
+    }
+
+    .clock { font-size: 1em; color: red; margin: 0; }
+    .date { font-size: 1em; color: white; margin: 0; }
+
+    .marquee { width: 250px; margin: 2px auto; overflow: hidden; white-space: nowrap; }
+    .marquee span {
+      display: inline-block;
+      color: white;
+      font-size: 1rem;
+      font-family: 'Caviar Dreams', sans-serif;
+      padding-right: 50px;
+    }
+
+    .social-icons {
+      margin-top: 12px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+    .social-icons a {
+      color: white;
+      font-size: 1.8em;
+      text-shadow: 0 0 10px red, 0 0 20px red, 0 0 40px red;
+      transition: transform 0.2s ease-in-out;
+    }
+    .social-icons a:hover { transform: scale(1.2); color: red; }
+
+    /* Copyright with bottom border */
+    .copyright-bar {
+      position: fixed;
+      bottom: 0; left: 0;
+      width: 100%;
+      background: rgba(0,0,0,0.6);
+      padding: 15px 0;
+    }
+    .copyright-bar::before {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 4px;
+      background: red;
+      box-shadow: 0 0 15px red, 0 0 30px red;
+    }
+    .copyright-bar h4 {
+      margin: 20px;
+      font-size: 1em;
+      color: white;
+      font-family: 'Caviar Dreams', sans-serif;
+      text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+    }
+  </style>
+</head>
+<body>
+  <div id="bg-container">
+    <video id="video-bg" autoplay muted loop playsinline>
+      <source src="https://ik.imagekit.io/vt0n3jlzx/background.webm/ik-video.mp4?updatedAt=1757589526287" type="video/mp4">
+    </video>
+    <canvas id="matrix"></canvas>
+  </div>
+
+  <!-- Header -->
+  <div class="header-top">
+    <h1>GHOST SECURITY SOCIETY</h1>
+    <div class="subtext">RED HAT HACKER</div>
+  </div>
+
+  <!-- Main Title -->
+  <div class="main-title"> WARNING SYSTEM BREACHED </div>
+
+  <!-- Profile -->
+  <div class="profile-img">
+    <img src="https://i.ibb.co/H9tsq2Q/1758251597885.png" alt="Profile Image">
+  </div>
+
+  <!-- Greetings -->
+  <h4 class="greetings">GREETINGS</h4>
+
+  <!-- Typewriter -->
+  <p id="typewriter" class="styled-text"></p>
+  <p id="quote" class="styled-text"></p>
+
+  <!-- Date & Clock -->
+  <div class="date" id="date"></div>
+  <div class="clock" id="clock"></div>
+
+  <!-- Collaborators -->
+  <h4 class="collaborators">COLLABORATES</h4>
+  <div class="marquee">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+      <span>- [ BLAKEZ, PH-HAZ, GREXX CURSED ASIA, PH-ACMAD, LEI, PAWNED PH, VULN SEC, VINDRAX PH ] -</span>
+    </marquee>
+  </div>
+
+  <!-- Social Icons -->
+  <div class="social-icons">
+    <a href="#"><i class="fab fa-instagram"></i></a>
+    <a href="#"><i class="fab fa-facebook"></i></a>
+    <a href="#"><i class="fab fa-whatsapp"></i></a>
+    <a href="#"><i class="fab fa-tiktok"></i></a>
+  </div>
+
+  <!-- Copyright -->
+  <div class="copyright-bar">
+    <h4>~ Copyright © 2019 All Right Reserved ~ </h4>
+  </div>
+
+  <!-- Audio -->
+  <audio id="myAudio" loop>
+    <source src="https://audio.jukehost.co.uk/rFapVkX5nnncYMvrutJoXUXLpBTvNsNa" type="audio/mpeg">
+  </audio>
+  <audio id="narrationAudio">
+    <source src="https://audio.jukehost.co.uk/uhD7bCvTsQtTnyYmYS8VYRXk6TjMlBFY" type="audio/mpeg">
+  </audio>
+
+<script>
+  function updateClock(){
+    const now=new Date();
+    document.getElementById('clock').textContent=now.toLocaleTimeString('en-GB',{hour12:false});
+    const months=["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+    document.getElementById('date').textContent=`${months[now.getMonth()]} : ${String(now.getDate()).padStart(2,'0')} : ${now.getFullYear()}`;
+  }
+  setInterval(updateClock,1000); updateClock();
+
+  const audio=document.getElementById("myAudio");
+  const narration=document.getElementById("narrationAudio");
+  audio.volume=0.3; narration.volume=1.0;
+  function playAll(){ audio.muted=false; audio.play().catch(()=>{}); narration.play().catch(()=>{}); }
+  audio.play().catch(()=>{ ["click","keydown","touchstart"].forEach(evt=>{ document.addEventListener(evt,function h(){playAll();document.removeEventListener(evt,h);}); }); });
+
+  const msg=`Your website was hacked due to weak security. 
+This is only a warning for You
+Please fix it as soon as possible.`;
+  let i=0;
+  function typeWriter(){
+    if(i<msg.length){
+      document.getElementById("typewriter").textContent+=msg.charAt(i);
+      i++; setTimeout(typeWriter,40);
+    }
+  }
+  narration.addEventListener("play",()=>{ document.getElementById("typewriter").textContent=""; i=0; typeWriter(); });
+
+  const c=document.getElementById("matrix");
+  const ctx=c.getContext("2d");
+  c.height=innerHeight; c.width=innerWidth;
+  const letters="01"; const fontSize=14; const columns=c.width/fontSize;
+  const drops=Array(Math.floor(columns)).fill(1);
+  function draw(){
+    ctx.fillStyle="rgba(0,0,0,0.05)";
+    ctx.fillRect(0,0,c.width,c.height);
+    ctx.fillStyle="#0f0"; ctx.font=fontSize+"px monospace";
+    for(let i=0;i<drops.length;i++){
+      const text=letters[Math.floor(Math.random()*letters.length)];
+      ctx.fillText(text,i*fontSize,drops[i]*fontSize);
+      if(drops[i]*fontSize>c.height&&Math.random()>0.975)drops[i]=0;
+      drops[i]++;
+    }
+  }
+  setInterval(draw,33);
+</script>
+</body>
+</html>
